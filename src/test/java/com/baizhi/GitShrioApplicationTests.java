@@ -9,6 +9,7 @@ class GitShrioApplicationTests {
     @Test
     void contextLoads() {
         System.out.println("============");
+        int a = 12;
     }
 
 }
